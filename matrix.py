@@ -1,3 +1,4 @@
+Tugas 1 Pengolahan Citra Digital
 # Perkalian Matriks Array 3 Dimensi
 
 A = [
